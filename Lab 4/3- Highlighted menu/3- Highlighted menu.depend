@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730290494 source:d:\iti - 9 month - pro web(.net)&bi\intro to prog using c\c ism d04\labs\3- highlighted menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

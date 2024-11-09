@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1730929210 source:d:\iti - 9 month - pro web(.net)&bi\intro to prog using c\c ism d07\lab\multi line editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
